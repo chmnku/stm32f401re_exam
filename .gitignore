@@ -1,0 +1,8 @@
+# Ignore Eclipse settings folder
+.settings/
+
+# Ignore C project file
+.cproject
+
+#Ignore project configuration file
+.project
